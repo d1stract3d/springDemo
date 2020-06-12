@@ -1,2 +1,3 @@
 # springDemo
-A Spring Boot demo using JPA/Hibernate, H2 Database, and the Spring MVC with Thymeleaf.
+
+A replica of SpringFrameworkGuru's [Example Spring 5 Web Application](https://github.com/springframeworkguru/spring5webapp).
